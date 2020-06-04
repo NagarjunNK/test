@@ -20,7 +20,6 @@ New CI types added -
         Nutanix-VM 
         Xen-VM 
         Xen-Host 
-        Unknown
         Printer
 
 Syncing  already existing CI Types
@@ -29,3 +28,4 @@ Syncing  already existing CI Types
         Switch 
         Workstation 
         Firewall 
+        Database
