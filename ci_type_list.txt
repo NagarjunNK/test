@@ -1,0 +1,31 @@
+New CI types added -
+        UPS
+        Storage 
+        PDU 
+        UCS 
+        RAID 
+        FCSwitch 
+        TapeLibrary  
+        WANAccelerator 
+        LoadBalancer 
+        DomainController 
+        Wireless 
+        VMware-Host 
+        VMware-vCentre 
+        VMware-VM 
+        HyperV-VM 
+        HyperV-Host 
+        Nutanix-Host 
+        Nutanix-Cluster 
+        Nutanix-VM 
+        Xen-VM 
+        Xen-Host 
+        Unknown
+        Printer
+
+Syncing  already existing CI Types
+        Server 
+        Router 
+        Switch 
+        Workstation 
+        Firewall 
