@@ -42,9 +42,9 @@ def ktm(m):
 def among(a,b,c):
     if a>b:
         if a>c:
-            print("{} is greater".format(a))
+            print("{} is greater number".format(a))
         else:
-            print("{} is greater".format(c))
+            print("{} is greater number".format(c))
     elif b>c:
         print("{} is greater".format(b))
     else:
