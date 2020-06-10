@@ -4,7 +4,6 @@ New CI types added -
         PDU 
         UCS 
         RAID 
-        FCSwitch 
         TapeLibrary  
         WANAccelerator 
         LoadBalancer 
